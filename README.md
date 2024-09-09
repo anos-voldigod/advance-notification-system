@@ -1,4 +1,4 @@
-# advance-notification-system
+# Advance-notification-system
 
 ## Overview
 This project is a Python-based safety notification system that uses Google Maps API, Twitter API, and real-time location data to assess the safety of a given area. The system fetches crowd data from nearby locations and analyzes the sentiment of tweets from that area. Based on the crowd level and tweet sentiment, it notifies the user about the safety of the location.
