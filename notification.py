@@ -4,8 +4,8 @@ import numpy as np
 import pandas as pd
 from plyer import notification
 import time
-google_map_api_key = 'AIzaSyCYyGLamHrPclvmQVvejg-qlXkaSCwPE8M'
-twitter_bearer_token = 'AAAAAAAAAAAAAAAAAAAAAAgdvgEAAAAAj7OoLs8C%2FAXGCVlpOY%2FcmZ5unkY%3DbsTiVI1z0TyhPKCyBFh22EXjPTum5P6i9psohz6MdRRPWkIGBA'
+google_map_api_key = 'GOOGLE API KEY'
+twitter_bearer_token = 'TWITTER BEARER TOKEN'
 
 client = tweepy.Client(bearer_token=twitter_bearer_token)
 
